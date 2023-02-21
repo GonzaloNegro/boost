@@ -39,7 +39,7 @@ function Footer() {
                     </div>
                 </div>
             </div>
-            <p className="copy">Copyright © 2023 CODERHOUSE. Todos los derechos reservados</p>
+            <p className="copy">Copyright © 2023 Gonzalo Negro. Todos los derechos reservados</p>
         </footer>
     </div>
   );
