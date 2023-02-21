@@ -1,0 +1,12 @@
+.welcome {
+    height: auto;
+    background-color: #252526;
+    color: white;
+}
+
+/* MOBILE */
+@media screen and (max-width: 599px){
+ .welcome{
+    height: auto;
+ }
+}
